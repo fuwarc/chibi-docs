@@ -2,8 +2,6 @@
 title: Windows
 lang: en-US
 ---
-# Windows
-
 This guide walks you through the steps to install and set up **chibi** on a Windows machine. Ensure you have administrative privileges to execute the necessary commands.
 
 ## Install using winget

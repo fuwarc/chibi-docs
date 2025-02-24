@@ -2,7 +2,7 @@
 title: Search
 lang: en-US
 ---
-# The `search` Command Documentation
+# The `search` Command
 
 The `chibi search` command allows you to search for anime and manga by providing a query. You can specify the type of media and control the number of results returned.
 

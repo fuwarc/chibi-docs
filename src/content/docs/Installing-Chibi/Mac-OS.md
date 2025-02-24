@@ -2,8 +2,6 @@
 title: Mac OS
 lang: en-US
 ---
-# Mac OS
-
 ## Install via Script
 
 You can install chibi via a bash script for any distros.

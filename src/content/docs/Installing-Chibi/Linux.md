@@ -2,9 +2,6 @@
 title: Linux
 lang: en-US
 ---
-
-# Linux
-
 ## Install via Script
 
 You can install chibi via a bash script for any distros.
@@ -40,19 +37,16 @@ For other distros, you can download the latest binary (`chibi_1.0.0_linux_amd64`
    ```shell
    mv ./chibi_1.0.0_linux_amd64 ./chibi
    ```
-
 2. Make the binary executable:
 
    ```shell
    chmod +x ./chibi
    ```
-
 3. Move the binary to `/usr/local/bin` (requires sudo privileges):
 
    ```shell
    sudo mv ./chibi /usr/local/bin/chibi
    ```
-
 4. Verify the installation by checking the version:
 
    ```shell
